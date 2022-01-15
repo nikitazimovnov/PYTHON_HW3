@@ -1,0 +1,137 @@
+Container contains 11 phrases:
+
+Aphorism:
+Country's name length = 10
+Text length = 7
+Signs' count = 33
+MainFunc = 4.714285714285714
+
+Aphorism:
+Country's name length = 0
+Text length = 6
+Signs' count = 24
+MainFunc = 4.0
+
+Aphorism:
+Country's name length = 0
+Text length = 8
+Signs' count = 54
+MainFunc = 6.75
+
+Aphorism:
+Country's name length = 0
+Text length = 10
+Signs' count = 66
+MainFunc = 6.6
+
+Aphorism:
+Country's name length = 0
+Text length = 3
+Signs' count = 29
+MainFunc = 9.666666666666666
+
+Aphorism:
+Country's name length = 8
+Text length = 4
+Signs' count = 29
+MainFunc = 7.25
+
+Aphorism:
+Country's name length = 0
+Text length = 5
+Signs' count = 30
+MainFunc = 6.0
+
+Aphorism:
+Country's name length = 13
+Text length = 11
+Signs' count = 49
+MainFunc = 4.454545454545454
+
+Aphorism:
+Country's name length = 0
+Text length = 4
+Signs' count = 31
+MainFunc = 7.75
+
+Aphorism:
+Country's name length = 0
+Text length = 6
+Signs' count = 26
+MainFunc = 4.333333333333333
+
+Aphorism:
+Country's name length = 0
+Text length = 4
+Signs' count = 29
+MainFunc = 7.25
+
+-----------------------
+Shake-Sorted container:
+
+Aphorism:
+Country's name length = 0
+Text length = 6
+Signs' count = 24
+MainFunc = 4.0
+
+Aphorism:
+Country's name length = 0
+Text length = 6
+Signs' count = 26
+MainFunc = 4.333333333333333
+
+Aphorism:
+Country's name length = 13
+Text length = 11
+Signs' count = 49
+MainFunc = 4.454545454545454
+
+Aphorism:
+Country's name length = 10
+Text length = 7
+Signs' count = 33
+MainFunc = 4.714285714285714
+
+Aphorism:
+Country's name length = 0
+Text length = 5
+Signs' count = 30
+MainFunc = 6.0
+
+Aphorism:
+Country's name length = 0
+Text length = 10
+Signs' count = 66
+MainFunc = 6.6
+
+Aphorism:
+Country's name length = 0
+Text length = 8
+Signs' count = 54
+MainFunc = 6.75
+
+Aphorism:
+Country's name length = 8
+Text length = 4
+Signs' count = 29
+MainFunc = 7.25
+
+Aphorism:
+Country's name length = 0
+Text length = 4
+Signs' count = 29
+MainFunc = 7.25
+
+Aphorism:
+Country's name length = 0
+Text length = 4
+Signs' count = 31
+MainFunc = 7.75
+
+Aphorism:
+Country's name length = 0
+Text length = 3
+Signs' count = 29
+MainFunc = 9.666666666666666
+

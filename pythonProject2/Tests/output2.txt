@@ -1,0 +1,245 @@
+Container contains 20 phrases:
+
+Aphorism:
+Country's name length = 0
+Text length = 13
+Signs' count = 59
+MainFunc = 4.538461538461538
+
+Aphorism:
+Country's name length = 4
+Text length = 13
+Signs' count = 59
+MainFunc = 4.538461538461538
+
+Aphorism:
+Country's name length = 0
+Text length = 9
+Signs' count = 39
+MainFunc = 4.333333333333333
+
+Aphorism:
+Country's name length = 8
+Text length = 2
+Signs' count = 24
+MainFunc = 12.0
+
+Aphorism:
+Country's name length = 7
+Text length = 15
+Signs' count = 75
+MainFunc = 5.0
+
+Aphorism:
+Country's name length = 0
+Text length = 4
+Signs' count = 35
+MainFunc = 8.75
+
+Aphorism:
+Country's name length = 0
+Text length = 10
+Signs' count = 69
+MainFunc = 6.9
+
+Aphorism:
+Country's name length = 6
+Text length = 13
+Signs' count = 67
+MainFunc = 5.153846153846154
+
+Aphorism:
+Country's name length = 0
+Text length = 6
+Signs' count = 27
+MainFunc = 4.5
+
+Aphorism:
+Country's name length = 0
+Text length = 7
+Signs' count = 67
+MainFunc = 9.571428571428571
+
+Aphorism:
+Country's name length = 0
+Text length = 7
+Signs' count = 37
+MainFunc = 5.285714285714286
+
+Aphorism:
+Country's name length = 0
+Text length = 3
+Signs' count = 30
+MainFunc = 10.0
+
+Aphorism:
+Country's name length = 0
+Text length = 8
+Signs' count = 59
+MainFunc = 7.375
+
+Aphorism:
+Country's name length = 0
+Text length = 3
+Signs' count = 48
+MainFunc = 16.0
+
+Aphorism:
+Country's name length = 0
+Text length = 11
+Signs' count = 68
+MainFunc = 6.181818181818182
+
+Aphorism:
+Country's name length = 0
+Text length = 15
+Signs' count = 63
+MainFunc = 4.2
+
+Aphorism:
+Country's name length = 0
+Text length = 16
+Signs' count = 73
+MainFunc = 4.5625
+
+Aphorism:
+Country's name length = 8
+Text length = 15
+Signs' count = 56
+MainFunc = 3.7333333333333334
+
+Aphorism:
+Country's name length = 0
+Text length = 7
+Signs' count = 55
+MainFunc = 7.857142857142857
+
+Aphorism:
+Country's name length = 0
+Text length = 7
+Signs' count = 43
+MainFunc = 6.142857142857143
+
+-----------------------
+Shake-Sorted container:
+
+Aphorism:
+Country's name length = 8
+Text length = 15
+Signs' count = 56
+MainFunc = 3.7333333333333334
+
+Aphorism:
+Country's name length = 0
+Text length = 15
+Signs' count = 63
+MainFunc = 4.2
+
+Aphorism:
+Country's name length = 0
+Text length = 9
+Signs' count = 39
+MainFunc = 4.333333333333333
+
+Aphorism:
+Country's name length = 0
+Text length = 6
+Signs' count = 27
+MainFunc = 4.5
+
+Aphorism:
+Country's name length = 0
+Text length = 13
+Signs' count = 59
+MainFunc = 4.538461538461538
+
+Aphorism:
+Country's name length = 4
+Text length = 13
+Signs' count = 59
+MainFunc = 4.538461538461538
+
+Aphorism:
+Country's name length = 0
+Text length = 16
+Signs' count = 73
+MainFunc = 4.5625
+
+Aphorism:
+Country's name length = 7
+Text length = 15
+Signs' count = 75
+MainFunc = 5.0
+
+Aphorism:
+Country's name length = 6
+Text length = 13
+Signs' count = 67
+MainFunc = 5.153846153846154
+
+Aphorism:
+Country's name length = 0
+Text length = 7
+Signs' count = 37
+MainFunc = 5.285714285714286
+
+Aphorism:
+Country's name length = 0
+Text length = 7
+Signs' count = 43
+MainFunc = 6.142857142857143
+
+Aphorism:
+Country's name length = 0
+Text length = 11
+Signs' count = 68
+MainFunc = 6.181818181818182
+
+Aphorism:
+Country's name length = 0
+Text length = 10
+Signs' count = 69
+MainFunc = 6.9
+
+Aphorism:
+Country's name length = 0
+Text length = 8
+Signs' count = 59
+MainFunc = 7.375
+
+Aphorism:
+Country's name length = 0
+Text length = 7
+Signs' count = 55
+MainFunc = 7.857142857142857
+
+Aphorism:
+Country's name length = 0
+Text length = 4
+Signs' count = 35
+MainFunc = 8.75
+
+Aphorism:
+Country's name length = 0
+Text length = 7
+Signs' count = 67
+MainFunc = 9.571428571428571
+
+Aphorism:
+Country's name length = 0
+Text length = 3
+Signs' count = 30
+MainFunc = 10.0
+
+Aphorism:
+Country's name length = 8
+Text length = 2
+Signs' count = 24
+MainFunc = 12.0
+
+Aphorism:
+Country's name length = 0
+Text length = 3
+Signs' count = 48
+MainFunc = 16.0
+
